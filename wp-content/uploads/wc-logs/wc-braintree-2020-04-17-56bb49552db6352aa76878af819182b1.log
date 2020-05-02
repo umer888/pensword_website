@@ -1,0 +1,5 @@
+2020-04-17T14:13:55+00:00 ERROR Error creating client token. Exception: Braintree\Exception\Configuration
+2020-04-17T14:16:55+00:00 ERROR Error creating client token. Exception: Braintree\Exception\Configuration
+2020-04-17T14:19:42+00:00 ERROR Error creating client token. Exception: Braintree\Exception\Configuration
+2020-04-17T14:27:58+00:00 ERROR Error creating client token. Exception: Braintree\Exception\Configuration
+2020-04-17T14:30:11+00:00 ERROR Error creating client token. Exception: Braintree\Exception\Configuration

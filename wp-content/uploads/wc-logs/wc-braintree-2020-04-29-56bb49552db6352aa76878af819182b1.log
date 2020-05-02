@@ -1,0 +1,48 @@
+2020-04-29T14:50:45+00:00 INFO Processing payment for order 2245. Transaction args: Array
+(
+    [amount] => 7.99
+    [taxAmount] => 0
+    [shippingAmount] => 0.00
+    [discountAmount] => 0
+    [customer] => Array
+        (
+            [firstName] => Umer
+            [lastName] => Hayat
+            [phone] => +923226316326
+            [email] => umerrajpoot742@gmail.com
+            [company] => 
+        )
+
+    [orderId] => 2245
+    [billing] => Array
+        (
+            [firstName] => Umer
+            [lastName] => Hayat
+            [locality] => Faisalabad
+            [postalCode] => 38000
+            [region] => PB
+            [streetAddress] => test address
+            [extendedAddress] => 
+            [countryCodeAlpha2] => PK
+        )
+
+    [shipping] => Array
+        (
+        )
+
+    [merchantAccountId] => xlogicsolutions
+    [channel] => PaymentPlugins_BT
+    [options] => Array
+        (
+            [submitForSettlement] => 1
+            [storeInVaultOnSuccess] => 
+        )
+
+    [descriptor] => Array
+        (
+        )
+
+    [deviceData] => {"device_session_id":"a13cff499111471745834685e13d559c","fraud_merchant_id":null,"correlation_id":"d286ec8379c83cb61aec1a0dde8662ad"}
+    [paymentMethodNonce] => 
+)
+
